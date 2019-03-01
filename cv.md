@@ -91,7 +91,6 @@ public class Rays : MonoBehaviour
         {
             yield return new WaitForSeconds(0);
             lightAngle += (wp_s.lookLeft/10f);
-            //StartCoroutine(Waiting());
         }
         else if (wp_s.lookRight > 0)
             while (lightAngle <= 0 || lightAngle <= 360)
