@@ -1,15 +1,15 @@
 # Stasulevich Daniil
-
+`hr`
 ### Contacts
 
 - email: alexgrist133@gmail.com
 - telephone: +375293848860
-
+`hr`
 ### Summary
 
  I chose these courses because i like programming languages(C#/C++).  Recently i was interested 
 front-end as well.
-
+`hr`
 ### Skills
 
 - C++(basics)
@@ -22,12 +22,11 @@ front-end as well.
 - HTML5
 - JavaScript(basics)
 - Windows Forms 
-
+`hr`
 ### Code Examples
 
 NPC Viev Field System
 ```C#
-// Данный скрипт представляет собой систему поле видимости противника.
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
@@ -35,17 +34,16 @@ using UnityEngine;
 public class Rays : MonoBehaviour
 {
 
-    // Количество лучей
+
     [SerializeField]
     [Range(1, 90)]
     public int numberOfRays;
 
-    // Угол падения лучей
+
     [SerializeField]
     [Range(-360, 360)]
     public float lightAngle = 0;
 
-    // Расстояние между лучами
     [SerializeField]
     [Range(0, 360)]
     public float lightCone = 90;
@@ -135,16 +133,17 @@ public class Rays : MonoBehaviour
 
 }
 ```
+`hr`
 ### Experience
 
 I have experience in creating a course project.
 
 In free time with my friend i make Stealth [game](https://github.com/Kozjar/RoflanGame) on Unity3D
-
+`hr`
 ### Education 
 
 Without higher education
-
+`hr`
 ### English level
 
 A2
