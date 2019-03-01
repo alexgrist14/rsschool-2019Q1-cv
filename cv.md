@@ -14,7 +14,7 @@ front-end as well.
 
 - C++(basics)
 - C# 
-- Assembler fo Windows
+- Assembler for Windows
 - Unity3D
 - Git
 - Photoshop
@@ -25,7 +25,7 @@ front-end as well.
 
 ### Code Examples
 
-NPC Viev Field System
+NPC View Field System
 ```C#
 using System.Collections;
 using System.Collections.Generic;
