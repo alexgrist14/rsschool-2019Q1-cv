@@ -1,15 +1,15 @@
 # Stasulevich Daniil
-***
+
 ### Contacts
 
 - email: alexgrist133@gmail.com
 - telephone: +375293848860
-***
+
 ### Summary
 
  I chose these courses because i like programming languages(C#/C++).  Recently i was interested 
 front-end as well.
-***
+
 ### Skills
 
 - C++(basics)
@@ -22,7 +22,7 @@ front-end as well.
 - HTML5
 - JavaScript(basics)
 - Windows Forms 
-***
+
 ### Code Examples
 
 NPC Viev Field System
@@ -133,17 +133,17 @@ public class Rays : MonoBehaviour
 
 }
 ```
-***
+
 ### Experience
 
 I have experience in creating a course project.
 
 In free time with my friend i make Stealth [game](https://github.com/Kozjar/RoflanGame) on Unity3D
-***
+
 ### Education 
 
 Without higher education
-***
+
 ### English level
 
 A2
