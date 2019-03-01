@@ -1,5 +1,5 @@
 # Stasulevich Daniil
-***
+
 ### Contacts
 
 - email: alexgrist133@gmail.com
