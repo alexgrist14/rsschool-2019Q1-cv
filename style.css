@@ -1,19 +1,35 @@
 body{
   width: 800px;
-  border: 2px solid;
   margin: 0 auto;
   font-family: "Sniglet";
   background-image: url('./assets/579b.jpg');
   background-repeat: no-repeat;
   background-size: 100%;
+  background-color: orchid;
 
 }
 .name{
   text-align: center;
+  color: royalblue;
 }
 h2,p,ul,div{
   margin-left: 5px;
 }
+h2{
+  color: rgb(33, 145, 18);
+}
+a{
+ text-decoration: none;
+ color: darkcyan;
+}
 main{
+  border: 2px solid;
   background-color: darksalmon;
+}
+span{
+  color: darkcyan;
+}
+img{
+  border: 5px solid;
+  box-shadow: 10px;
 }
