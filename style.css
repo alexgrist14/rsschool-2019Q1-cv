@@ -1,0 +1,19 @@
+body{
+  width: 800px;
+  border: 2px solid;
+  margin: 0 auto;
+  font-family: "Sniglet";
+  background-image: url('./assets/579b.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+
+}
+.name{
+  text-align: center;
+}
+h2,p,ul,div{
+  margin-left: 5px;
+}
+main{
+  background-color: darksalmon;
+}
